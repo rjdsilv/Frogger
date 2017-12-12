@@ -5,7 +5,7 @@ AnimatorController:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Frog_0
+  m_Name: FrogJumping
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: ButtonPressed
@@ -78,7 +78,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: FrogAnimation
+  m_Name: JumpingJumping
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
